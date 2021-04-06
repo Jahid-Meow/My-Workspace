@@ -119,8 +119,6 @@ fi
 # export PS1="\u@\W$"
 
 #export PS1="[\t] \u@\h:w\$"
-export NVM_DIR="$HOME/.nvm"
-[ -s "NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
-[ -s "NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
+
 
 export PS1="[\t] \W$ "
