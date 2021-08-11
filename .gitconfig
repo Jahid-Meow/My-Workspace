@@ -1,3 +1,5 @@
 [user]
 	email = "53080512+Jahid-Meow@users.noreply.github.com "
 	name = Jahid Hasan
+[credential]
+	helper = cache
