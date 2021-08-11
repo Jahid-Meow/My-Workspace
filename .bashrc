@@ -121,4 +121,4 @@ fi
 #export PS1="[\t] \u@\h:w\$"
 
 
-export PS1="[\t] \W$ "
+# export PS1="[\t] \W$ "
